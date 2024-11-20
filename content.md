@@ -1,4 +1,4 @@
-{TITLE} RdV - Evoluzione
+{TITLE} RdV - Evolvere
 
 # Evoluzione
 <span class="ut">Parole per la Regola di Vita</span>
@@ -18,4 +18,4 @@
 
 ## Parola per la Regola di Vita
 
-**EVOLUZIONE**
+**EVOLVERE**
