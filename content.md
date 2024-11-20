@@ -1,22 +1,21 @@
-{TOC}  
-{TITLE} Template use
+{TITLE} RdV - Evoluzione
 
-# Example use
-<span class="ut">Subtitle</span>
+# Evoluzione
+<span class="ut">Parole per la Regola di Vita</span>
 
-## Title 2
+## Gesù ...
 
-Paragraph one, simple text.
+...
 
-### Title 3
+## La Chiesa ...
 
-Paragraph with:
+...
 
-- Bulleted;
-- List.
+## Domanda del giorno
 
-Eheh.
+- Nel concreto, come inizio a seguire la mia Regola di Vita?
+- Quali cambiamenti ho in mente di provare ad apportare per primi nella mia vita?
 
-#### Title 4
+## Parola per la Regola di Vita
 
-<span style="color: red">Custom style! Use span for that. :-)</span>
+**EVOLUZIONE**
