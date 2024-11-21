@@ -3,11 +3,11 @@
 # Evolvere
 <span class="ut">Parole per la Regola di Vita</span>
 
-## Gesù ...
+## Gesù evolve
 
 ...
 
-## La Chiesa ...
+## La Chiesa evolve
 
 ...
 
