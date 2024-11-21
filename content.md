@@ -1,6 +1,6 @@
 {TITLE} RdV - Evolvere
 
-# Evoluzione
+# Evolvere
 <span class="ut">Parole per la Regola di Vita</span>
 
 ## Gesù ...
